@@ -1,0 +1,29 @@
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+
+}
+
+.actions button {
+  font: inherit;
+  color: #3a8bc3;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  border-radius: 25px;
+  padding: 0.5rem 2rem; 
+}
+
+.actions button:hover,
+.actions button:active {
+  background-color: #6c7596;
+  border-color: #3a8bc3;
+  color: white;
+}
+.badge {
+  font-size:125%;
+  color: rgb(58 139 195);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}

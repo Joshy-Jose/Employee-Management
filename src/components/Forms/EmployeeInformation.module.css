@@ -1,0 +1,21 @@
+
+.employee {
+    max-width: 70rem;
+    width: 90%;
+    margin: 10rem auto;
+  }
+  
+   .employee ul {
+     list-style: none;
+
+   } 
+
+   .list{
+    margin: 1rem 0;
+    background: #eee9ec;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: black;
+    padding: 1rem 2rem;
+    cursor: pointer;
+  }
+  
